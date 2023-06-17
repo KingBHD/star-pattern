@@ -11,3 +11,5 @@ if __name__ == "__main__":
             print("*"*stars)
 
     basic_pattern_algo(10)
+
+# 1
